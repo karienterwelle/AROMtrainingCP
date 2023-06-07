@@ -28,7 +28,7 @@ In this repository you will find the Matlab, Simulink and SOLIDWORKS files neces
 - **Solidworks_pack_and_go** folder contains all CAD-drawings of the final design.
 
 ### Running the tests
-For recreating the results, simply download all files and run the Matlab code or open all the CAD-files simoultaneously in SOLIDWORKS to obtain the assebled design.
+For recreating the results, simply download all files and run the Matlab code. For observing the final design, place all Solidworks parts and the assembly (Concept_3_assem) in the same folder and open the assembly file in Solidworks.
 
 ## Built With
 
